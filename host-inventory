@@ -1,0 +1,2 @@
+13.60.22.199 apache_package=httpd php_package=php apache_service=httpd git_package=git
+16.170.206.23 apache_package=apache2 php_package=libapache2-mod-php apache_service=apache2 git_package=git
